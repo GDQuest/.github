@@ -3,7 +3,6 @@
 - [ ] The commit message follows our guidelines.
 - For bug fixes and features:
     - [ ] You tested the changes.
-    - [ ] You updated the docs or changelog.
 
 
 Related issue (if applicable): #
